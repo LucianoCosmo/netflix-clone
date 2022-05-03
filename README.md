@@ -1,2 +1,3 @@
-# netflix-clone
-Clone da home page da netflix. 
+# Netflix-clone
+Clone da home page da netflix.
+## Desafio de projeto html/css.
